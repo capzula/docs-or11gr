@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yi8jt1.axisdrivingclasses.com/sitemap.xml
